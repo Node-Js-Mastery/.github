@@ -38,7 +38,7 @@ Become a part of our thriving Node.js community:
 
 ## 🔐 License
 
-This project is licensed under the [MIT License](link_to_license).
+This project is licensed under the [MIT License](LICENSE).
 
 Ready to master Node.js? Let's code together!
 
